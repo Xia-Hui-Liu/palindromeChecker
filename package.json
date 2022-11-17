@@ -1,0 +1,19 @@
+{
+  "name": "palindromechecker",
+  "version": "1.0.0",
+  "description": "## Objective",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.27.0"
+  }
+}
